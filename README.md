@@ -25,13 +25,8 @@ Hi 👋, I'm Mahadeva Sankaram Telidevara<br>A passionate Software Engineer from
   <img src="https://www.gitpulse.dev/api/maker-summary/devaPOC/badge?size=large&theme=dark" alt="GitPulse Verified Developer" />
 </a>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=tmsankaram&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/tmsankaram) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
