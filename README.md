@@ -20,6 +20,10 @@ Hi 👋, I'm Mahadeva Sankaram Telidevara<br>A passionate Software Engineer from
 ![](https://nirzak-streak-stats.vercel.app/?user=tmsankaram&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tmsankaram&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# GITPULSE 
+<a href="https://www.gitpulse.dev/profile/devaPOC" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.gitpulse.dev/api/maker-summary/devaPOC/badge?size=large&theme=dark" alt="GitPulse Verified Developer" />
+</a>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
